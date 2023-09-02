@@ -29,5 +29,5 @@ for line in lines:
     draw.text(text_position, text=line, fill=text_color, align="center", font=font)
     y_text += h  # Adding the height of the line to the Y-coordinate for the next line
 
-#Saves the image as dj("daa joke").png
+#Saves the image as dj("dad joke").png
 image.save(f"dj.png")
