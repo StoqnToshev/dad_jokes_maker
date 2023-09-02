@@ -4,4 +4,5 @@ This project is made due to boredom.
 
 It uses the libraries random, PIL, textwrap and json.
 
+"dj.png" is an example joke
 
